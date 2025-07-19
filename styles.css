@@ -1,0 +1,59 @@
+.post{
+	background: black;
+	width: 600px;
+	height: 600px;
+    margin: auto;
+	position: relative;
+
+}
+.post-header{
+    display: flex;
+	gap: 10px;
+	background: white;	
+    width: 300px;
+	position: absolute;
+	top: 50px;
+	left: 100px;
+	padding: 8px;
+
+}
+
+
+.img-small{
+	width: 30px;
+	height: 30px;
+
+}
+ .ultimo{
+	margin-left: auto;
+}
+.post-img{
+    position: absolute;
+	top: 102px;
+	left: 100px;
+	
+}
+.img-post{
+   width:315px;
+   height: 220px;
+}
+.post-icons{
+    display: flex;
+	gap: 10px;
+	background: white;	
+    width: 300px;
+	height: 100;
+	position: absolute;
+	top: 322px;
+	left: 100px;
+	padding: 8px;
+	
+}
+.post-body{
+	background: white;	
+    width: 300px;
+	position: absolute;
+	top: 354px;
+	left: 100px;
+	padding: 8px;
+}
